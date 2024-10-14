@@ -1,0 +1,41 @@
+{
+  "uz": {
+    "translation": {
+      "firstext": "XAVFSIZLIK YECHIMI",
+      "keep": "Haqiqiy vaqtda yaqinlaringizni  kuzatib boring!",
+      "desc": "Biz dunyoda yuqori darajadagi ishonchsizlikni payqadik va bu ishonchsizliklarga qarshi kurashish uchun texnologiyadan qanday foydalanish mumkinligi haqida o'yladik.",
+      "our": "Bizning kutish ro'yxatimizga qo'shiling!",
+      "lasttext": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
+      "assets": "Aktivlar",
+      "Creators": "Ijodkorlar",
+      "Careers": "Karyera      ",
+      "Go Pro": "Pro-ga o'ting"
+    }
+  },
+  "en": {
+    "translation": {
+      "firstext": "A SECURITY SOLUTION",
+      "keep": "Keep track of your loved ones in real time!",
+      "desc": "We noticed the high level of insecurity in the world, and we thought of how technolog could be used to combat these insecurities.",
+      "our": "Join Our Waitlist!",
+      "lasttext": "Be the first to get notified when the product is ready!",
+      "assets": "Assets",
+      "Creators": "Creators",
+      "Careers": "Careers",
+      "Go Pro": "Go Pro"
+    }
+  },
+  "ru": {
+    "translation": {
+      "firstext": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+      "keep": "Следите за своими близкими в режиме реального времени!",
+      "desc": "Мы заметили высокий уровень нестабильности в мире и подумали о том, как можно использовать технологии для борьбы с этой нестабильностью.",
+      "our": "Присоединяйтесь к нашему списку ожидания!",
+      "lasttext": "Будьте первым, кто получит уведомление о готовности товара!",
+      "assets": "Ресурсы",
+      "Creators": "Создатели",
+      "Careers": "Карьера",
+      "Go Pro": "Станьте профессионалом"
+    }
+  }
+}
